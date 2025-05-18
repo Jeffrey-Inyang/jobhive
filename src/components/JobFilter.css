@@ -1,0 +1,32 @@
+.filter-section {
+  padding: 2rem;
+  background-color: #f1f5f9;
+  text-align: center;
+}
+
+.filter-section h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+}
+
+.search-fields input {
+  padding: 0.6rem;
+  margin: 0.5rem;
+  width: 200px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.filter-controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.filter-controls select {
+  padding: 0.6rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
